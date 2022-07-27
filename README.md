@@ -31,6 +31,6 @@
 ---
 
 ## ⭐ My GH account and Stack
-[![card](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasloureiror&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![card](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasloureiror&hide=html&layout=compact&theme=tokyonight)
 <br>
-[![card](https://github-readme-stats.vercel.app/api?username=lucasloureiror&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![card](https://github-readme-stats.vercel.app/api?username=lucasloureiror&theme=tokyonight)
