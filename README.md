@@ -5,7 +5,7 @@
 
 > I'm a brazilian lawyer, currently in a carreer transition to tech, and Information Systems undergraduate @ ICMC-USP
 
-🔭 Right now I'm doing a foundation study in backend development, an area that I'm very interested about, and I'm in the 1st year of the Information Systems Bachelor Degree.
+🔭 Right now I'm doing a foundation study in backend development, with a special focus on data,  an area that I'm very interested about, and I'm in the 1st year of the Information Systems Bachelor Degree.
 
 🌱 I’m currently learning Java, Python and DB.
 <br><br>
