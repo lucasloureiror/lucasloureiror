@@ -7,7 +7,7 @@
 
 🔭 Right now I'm doing a foundation study in backend development, with a special focus on data,  an area that I'm very interested about, and I'm in the 1st year of the Information Systems Bachelor Degree.
 
-🌱 I’m currently learning Java, Python and DB.
+🌱 I’m currently learning Python, JS and DB.
 <br><br>
 📫 How to reach me
 
