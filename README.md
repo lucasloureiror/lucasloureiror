@@ -5,7 +5,7 @@
 
 > I'm a brazilian lawyer, currently in a carreer transition to dev, and Information Systems undergraduate at ICMC-USP in São Paulo - Brazil.
 
-🔭 Right now I'm doing a foundation study in full-stack development with a special focus in back-end development and it's different tools to provide solutions to a variety of business problems. 
+🔭 Right now I'm doing a foundation study in full stack development with a special focus in back-end development and it's different tools to provide solutions to a variety of business problems. 
 
 🌱 What I'm learning right now: 
 
