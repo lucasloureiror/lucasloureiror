@@ -3,9 +3,7 @@
 
 ## 🌃 Hello 👋, my name is <strong>Lucas!</strong>
 
-> I'm a brazilian lawyer, currently in a carreer transition to dev, and Information Systems undergraduate at ICMC-USP in São Paulo - Brazil.
-
-🔭 Right now: Software Engineer Intern
+> I'm a brazilian lawyer, currently a Software Engineer Intern, and Information Systems undergraduate at ICMC-USP in São Paulo - Brazil.
 
 🌱 What I'm learning right now: 
 
