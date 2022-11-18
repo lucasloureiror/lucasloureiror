@@ -5,7 +5,7 @@
 
 > I'm a brazilian lawyer, currently in a carreer transition to dev, and Information Systems undergraduate at ICMC-USP in São Paulo - Brazil.
 
-🔭 Right now I'm doing a foundation study in full stack development with a special focus in back-end development and it's different tools to provide solutions to a variety of business problems. 
+🔭 Right now: Software Engineer Intern
 
 🌱 What I'm learning right now: 
 
@@ -19,7 +19,6 @@
       
       c. <em>Python</em>: Understading how Django can build reliable products with extreme speed and the impact of data flow in business competitiveness.
       
-      d. <em>Node</em>: Understading the JS full cycle in a fast moving market and the advantages of using this method of development.
       
       
 
