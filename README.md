@@ -11,13 +11,10 @@
   
    2. <strong>Back-end</strong>: 
   
-      a. <em>Java</em>: Understading it's high capability to deliver perfomance and products in scale.
+      a. <em>Java</em>: Understading the inner workings of the JVM and it's high capability to deliver perfomance and products in scale.
       
-      b. <em>Go</em>: Understading how Go can deliver a high performance product having concurrency in mind.
-      
-      c. <em>Python</em>: Understading how Django can build reliable products with extreme speed and the impact of data flow in business competitiveness.
-      
-      
+      b. <em>Go</em>: Understading how Go can deliver a high performance product having concurrency and the cloud in mind.
+     
       
 
 
