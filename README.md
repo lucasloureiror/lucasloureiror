@@ -3,7 +3,7 @@
 
 ## 🌃 Hello 👋, my name is <strong>Lucas!</strong>
 
-> I'm a brazilian lawyer, currently a Software Engineer Intern, and Information Systems undergraduate at ICMC-USP in São Paulo - Brazil.
+> I'm a brazilian lawyer, currently Software Engineer Intern, and Information Systems undergraduate at ICMC-USP in São Paulo - Brazil.
 
 🌱 What I'm learning right now: 
 
@@ -24,9 +24,8 @@
  [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasloureiror/)
 <br><br>
 # 💻 Tech Stack:
-<code><img height="32" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/></code>
-<code><img height="32" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/></code>
 <code><img height="32" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></code>
+<code><img height="32" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/></code>
 <code><img height="32" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/></code>
 <code><img height="32" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/></code>
 <code><img height="32" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></code>
