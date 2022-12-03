@@ -11,7 +11,7 @@
   
    2. <strong>Back-end</strong>: 
   
-      a. <em>Java</em>: Understading the inner workings of the JVM and how to proper use Spring to deliver web services with high performance.
+      a. <em>Java</em>: Understading the inner workings of the JVM and how to proper use Spring Boot to deliver web services with high performance.
       
       b. <em>Go</em>: Understading how Go make great web services with performance, low memory usage and low learning curve with frameworks like Gin and Fiber.
      
