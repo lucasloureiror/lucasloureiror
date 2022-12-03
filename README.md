@@ -13,7 +13,7 @@
   
       a. <em>Java</em>: Understading the inner workings of the JVM and how to proper use Spring to deliver perfomance and products in scale.
       
-      b. <em>Go</em>: Understading how Go can deliver a high performance product having concurrency and the cloud in mind.
+      b. <em>Go</em>: Understading how Go can deliver a high performance product having concurrency and the cloud in mind with simple to use frameworks like Gin.
      
       
 
