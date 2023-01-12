@@ -45,6 +45,6 @@
 
 
 # 📊 GitHub Stats:
-![card](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasloureiror&hide=html&layout=compact&theme=tokyonight)
+![card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucasloureiror&hide=html&layout=compact&theme=tokyonight)
 <br>
-![card](https://github-readme-stats.vercel.app/api?username=lucasloureiror&theme=tokyonight)
+![card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=lucasloureiror&theme=tokyonight)
