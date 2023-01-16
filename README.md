@@ -15,7 +15,7 @@
       
       c. <em>AWS and Cloud</em>: Understanding how to create cloud solutions that will offer scalability and elasticity to a plataform.
       
-      d. <em>Observability</em>: Understanding how to apply the principles of Observability Engineering to ship code swiftly and confidently, acheiving production excellence
+      d. <em>Observability</em>: Understanding how to apply the principles of Observability Engineering to ship code swiftly and confidently, acheiving production excellence.
      
       
 
