@@ -11,7 +11,7 @@
   
       a. <em>Infrastructure as code</em>: Understanding how to effectively manage infrastructure to reduce cost, configuration drift and increase deployment speed.
       
-      b. <em>Scripting</em>: Using Python and Go to create powerful scripts to automate relevant tasks. 
+      b. <em>Scripting</em>: Using Python and Go to create powerful scripts and tooling to automate relevant tasks. 
       
       c. <em>AWS and Cloud</em>: Understanding how to create cloud solutions that will offer scalability and elasticity to a plataform.
       
