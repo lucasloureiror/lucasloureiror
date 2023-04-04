@@ -3,11 +3,17 @@
 
 ## 🌃 Hello 👋, my name is <strong>Lucas!</strong>
 
-> I'm a brazilian lawyer, currently DevOps Engineer/SRE Intern, and Information Systems undergraduate at ICMC-USP in São Carlos - Brazil.
+> I'm a brazilian lawyer, currently Software Developer doing DevOps Engineer/SRE, and Information Systems undergraduate at ICMC-USP in São Carlos - Brazil.
 
 🌱 What I'm learning right now: 
+
+ 1. <strong>Software Engineering</strong>: Using primarly Golang.
+
+    a. <em>CLIs (Go)</em>: I'm learning how to build powerful CLIs using concurrency, the incredible standard library of Golang and librarys like Cobra.
+
+    b. <em>APIs (Go)</em>: Developing APIs to better understand the benefits of concurrency in web services and to grasp fundamental knowledge of systems like gRPC and advantagens in cloud native applications, getting valuable knowledge in API development and architecture with Gin and other web frameworks.
   
-   1. <strong>DevOps</strong>: 
+   2. <strong>DevOps</strong>: 
   
       a. <em>Infrastructure as code</em>: Understanding how to effectively manage infrastructure to reduce cost, configuration drift and increase deployment speed.
       
@@ -16,6 +22,9 @@
       c. <em>AWS and Cloud</em>: Understanding how to create cloud solutions that will offer scalability and elasticity to a plataform.
       
       d. <em>Observability</em>: Understanding how to apply the principles of Observability Engineering to ship code swiftly and confidently, acheiving production excellence.
+
+     
+   
      
       
 
