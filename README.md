@@ -9,7 +9,7 @@
 
  1. <strong>Software Engineering</strong>: Using primarly Golang.
 
-    a. <em>CLIs (Go)</em>: I'm learning how to build powerful CLIs using concurrency, the incredible standard library of Golang and librarys like Cobra.
+    a. <em>CLIs (Go)</em>: I'm learning how to build CLIs using concurrency, the incredible standard library of Golang and libraries like Cobra.
 
     b. <em>APIs (Go)</em>: Developing APIs to better understand the benefits of concurrency in web services and to grasp fundamental knowledge of systems like gRPC and advantagens in cloud native applications, getting valuable knowledge in API development and architecture with Gin and other web frameworks.
   
