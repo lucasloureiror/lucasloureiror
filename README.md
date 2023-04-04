@@ -3,7 +3,7 @@
 
 ## 🌃 Hello 👋, my name is <strong>Lucas!</strong>
 
-> I'm a brazilian lawyer, currently Software Developer doing DevOps Engineer/SRE, and Information Systems undergraduate at ICMC-USP in São Carlos - Brazil.
+> I'm a brazilian lawyer, currently Software Engineer doing DevOps Engineer/SRE, and Information Systems undergraduate at ICMC-USP in São Carlos - Brazil.
 
 🌱 What I'm learning right now: 
 
@@ -19,7 +19,7 @@
       
       b. <em>Scripting</em>: Using Python and Go to create powerful scripts and tooling to automate relevant tasks. 
       
-      c. <em>AWS and Cloud</em>: Understanding how to create cloud solutions that will offer scalability and elasticity to a plataform.
+      c. <em>AWS and Azure</em>: Understanding how to create cloud solutions that will offer scalability and elasticity to a plataform with focus on reliability.
       
       d. <em>Observability</em>: Understanding how to apply the principles of Observability Engineering to ship code swiftly and confidently, acheiving production excellence.
 
