@@ -3,7 +3,7 @@
 
 ## 🌃 Hello 👋, my name is <strong>Lucas!</strong>
 
-> I'm a brazilian lawyer, currently Software Engineer doing DevOps Engineer/SRE, and Information Systems undergraduate at ICMC-USP in São Carlos - Brazil.
+> I'm a brazilian lawyer, currently Software Engineer doing DevOps/SRE, and Information Systems undergraduate at ICMC-USP in São Carlos - Brazil.
 
 🌱 What I'm learning right now: 
 
