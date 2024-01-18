@@ -3,26 +3,23 @@
 
 ## 🌃 Hello 👋, my name is <strong>Lucas!</strong>
 
-> I'm a brazilian lawyer, currently Software Engineer doing DevOps/SRE, and Information Systems undergraduate at ICMC-USP in São Carlos - Brazil.
+> I'm a brazilian lawyer, currently Software Engineer working as Site Reliability Engineer, and Information Systems undergraduate at ICMC-USP in São Carlos - Brazil.
 
 🌱 What I'm learning right now: 
-
- 1. <strong>Software Engineering</strong>: Using primarly Golang.
-
-    a. <em>CLIs (Go)</em>: I'm learning how to build CLIs using concurrency, the incredible standard library of Golang and libraries like Cobra.
-
-    b. <em>APIs (Go)</em>: Developing APIs to better understand the benefits of concurrency in web services and to grasp fundamental knowledge of systems like gRPC and advantagens in cloud native applications, getting valuable knowledge in API development and architecture with Gin and other web frameworks.
   
-   2. <strong>DevOps</strong>: 
+   1. <strong>DevOps</strong>: 
   
-      a. <em>Infrastructure as code</em>: Understanding how to effectively manage infrastructure to reduce cost, configuration drift and increase deployment speed.
+      - <em>Infrastructure as code</em>: Understanding how to effectively manage infrastructure to reduce cost, configuration drift and increase deployment speed.
+      - <em>Scripting</em>: Using Python and Go to create powerful scripts and tooling to automate relevant tasks. 
+      - <em>Cloud</em>: Understanding how to create cloud solutions that will offer scalability and elasticity to a plataform with focus on reliability with AWS and Azure.
       
-      b. <em>Scripting</em>: Using Python and Go to create powerful scripts and tooling to automate relevant tasks. 
       
-      c. <em>AWS and Azure</em>: Understanding how to create cloud solutions that will offer scalability and elasticity to a plataform with focus on reliability.
-      
-      d. <em>Observability</em>: Understanding how to apply the principles of Observability Engineering to ship code swiftly and confidently, acheiving production excellence.
-
+ 2. <strong>Site Reliability Engineering</strong>:
+    - <em>Embracing risk with error budgets</em>: Learning how to set and manage error budgets to balance innovation and reliability.
+    - <em>Testing for reliability</em>: Exploring different testing strategies and tools to ensure system reliability, including chaos engineering and fault injection.
+    - <em>Incident management</em>: Gaining expertise in handling and resolving incidents to minimize impact on system reliability and user experience.
+    - <em>Automation and tooling</em>: Developing skills in building automation and tooling to improve system reliability and reduce toil.
+    - <em>Reliability best practices</em>: Studying and implementing best practices for building and maintaining reliable systems, such as service level indicators (SLIs) and service level objectives (SLOs).
      
    
      
