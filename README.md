@@ -3,9 +3,11 @@
 
 ## 🌃 Hello 👋, my name is <strong>Lucas!</strong>
 
-I'm a Site Reliability Engineer hailing from Brazil, with a unique background as a former lawyer. Currently, I'm expanding my knowledge as an Information Systems undergraduate at ICMC-USP in São Carlos, Brazil.
+I'm a Site Reliability Engineer from Brazil, with a unique background as a former lawyer. Currently, I'm in the final stages of my Information Systems undergraduate program at ICMC-USP in São Carlos, Brazil.
 
-Feel free to explore my pinned projects below to see what I've been working on.<br><br>
+My expertise spans Cloud (AWS and Azure), distributed systems management, Kubernetes, FinOps, network troubleshooting, and system architecture. I'm passionate about privacy and security in tech.
+
+Feel free to explore my pinned projects below to see what I've been working on. For secure communication, you can find my PGP public key on my website.
 
 ## 📫 Let's Connect!
 
