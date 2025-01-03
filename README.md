@@ -18,9 +18,30 @@ You can reach me at my personal website: [loureiro.tech](https://loureiro.tech)
 <br><br>
 ## 💻 Tech Stack:
 
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=linux,bash,go,python,solidity,rust,terraform,aws,azure,docker,kubernetes" />
+### Backend and Scripting
+<p align="">
+    <img src="https://skillicons.dev/icons?i=bash,go,python,rust" />
 </p>
+
+### Cloud
+
+
+<p align="">
+    <img src="https://skillicons.dev/icons?i=aws,azure" />
+</p>
+
+### Tooling
+
+<p align="">
+    <img src="https://skillicons.dev/icons?i=linux,terraform,docker,kubernetes" />
+</p>
+
+### Blockchain
+
+<p align="">
+    <img src="https://skillicons.dev/icons?i=solidity,rust" />
+</p>
+
 
 
 ## 📊 GitHub Stats:
