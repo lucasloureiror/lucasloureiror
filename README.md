@@ -20,7 +20,7 @@ You can reach me at my personal website: [loureiro.tech](https://loureiro.tech)
 
 ### Backend and Scripting
 <p align="">
-    <img src="https://skillicons.dev/icons?i=bash,go,python,rust" />
+    <img src="https://skillicons.dev/icons?i=bash,go,python" />
 </p>
 
 ### Cloud
@@ -42,8 +42,3 @@ You can reach me at my personal website: [loureiro.tech](https://loureiro.tech)
     <img src="https://skillicons.dev/icons?i=solidity,rust" />
 </p>
 
-
-
-## 📊 GitHub Stats:
-![card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucasloureiror&hide=html&layout=compact&theme=tokyonight)
-<br>
