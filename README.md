@@ -1,44 +1,47 @@
- 
+## 🌃 Hello 👋, I'm Lucas
 
+I'm a Site Reliability Engineer from Brazil with experience operating and improving critical workloads across AWS, Azure and hybrid environments. My background includes infrastructure automation, cloud governance, incident response, observability and reliability engineering for production systems.
 
-## 🌃 Hello 👋, my name is <strong>Lucas!</strong>
+Currently, I'm finishing my Information Systems undergraduate degree at ICMC-USP in São Carlos, Brazil. Before transitioning into technology, I worked in the legal field, which helped shape a strong operational, analytical and risk-oriented mindset.
 
-I'm a Site Reliability Engineer from Brazil, with a unique background as a former lawyer. Currently, I'm in the final stages of my Information Systems undergraduate program at ICMC-USP in São Carlos, Brazil.
+My main areas of interest include:
+- Site Reliability Engineering (SRE)
+- Cloud Infrastructure & Platform Engineering
+- Infrastructure as Code (Terraform/Terragrunt)
+- Kubernetes & Distributed Systems
+- Incident Response & Operational Reliability
+- Observability & Monitoring
+- FinOps & Cloud Governance
+- Security Engineering & Privacy
 
-My expertise spans Cloud (AWS and Azure), distributed systems management, Kubernetes, FinOps, network troubleshooting, and system architecture. I'm passionate about privacy and security in tech.
+Recently, I've been focusing heavily on operational maturity and reliability practices, including incident management, alert rationalization, observability improvements and resilient cloud architectures.
 
-Recently, I've also been diving into the world of Web3 and blockchain technology. I'm actively developing smart contracts using Solidity, exploring decentralized applications (dApps), and contributing to the growing ecosystem of decentralized technologies.
+Feel free to explore my pinned projects below to see what I'm building and studying.
 
-Feel free to explore my pinned projects below to see what I've been working on. 
-For secure communication, you can find my PGP public key on my website.
+For secure communication, my PGP public key is available on my website.
 
 ## 📫 Let's Connect!
 
-You can reach me at my personal website: [loureiro.tech](https://loureiro.tech)
-<br><br>
-## 💻 Tech Stack:
+Personal website: [loureiro.tech](https://loureiro.tech)
 
-### Backend and Scripting
-<p align="">
+## 💻 Tech Stack
+
+### Backend & Scripting
+<p>
     <img src="https://skillicons.dev/icons?i=bash,go,python" />
 </p>
 
-### Cloud
-
-
-<p align="">
-    <img src="https://skillicons.dev/icons?i=aws,azure" />
+### Cloud & Infrastructure
+<p>
+    <img src="https://skillicons.dev/icons?i=aws,azure,terraform,kubernetes,docker" />
 </p>
 
-### Tooling
-
-<p align="">
-    <img src="https://skillicons.dev/icons?i=linux,terraform,docker,kubernetes" />
+### Operations & Tooling
+<p>
+    <img src="https://skillicons.dev/icons?i=linux,grafana,git,githubactions" />
 </p>
 
-### Blockchain
-
-<p align="">
+### Interests
+<p>
     <img src="https://skillicons.dev/icons?i=solidity,rust" />
 </p>
-
