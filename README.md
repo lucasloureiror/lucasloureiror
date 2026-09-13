@@ -1,47 +1,51 @@
-## 🌃 Hello 👋, I'm Lucas
+# Hello, I'm Lucas 👋
 
-I'm a Site Reliability Engineer from Brazil with experience operating and improving critical workloads across AWS, Azure and hybrid environments. My background includes infrastructure automation, cloud governance, incident response, observability and reliability engineering for production systems.
+I'm a Site Reliability Engineer based in São Carlos, Brazil. I build and operate platforms across AWS, Azure, and hybrid environments, with a focus on reliability, automation, security, governance, and developer autonomy.
 
-Currently, I'm finishing my Information Systems undergraduate degree at ICMC-USP in São Carlos, Brazil. Before transitioning into technology, I worked in the legal field, which helped shape a strong operational, analytical and risk-oriented mindset.
+My relationship with infrastructure started when I was about ten, running online game servers and experimenting with VPS instances, networks, databases, and code. I later studied Law and practiced independently for roughly four years before moving into technology. In the end, the servers won over the law books. I have since completed a second degree in Information Systems at the University of São Paulo.
 
-My main areas of interest include:
-- Site Reliability Engineering (SRE)
-- Cloud Infrastructure & Platform Engineering
-- Infrastructure as Code (Terraform/Terragrunt)
-- Kubernetes & Distributed Systems
-- Incident Response & Operational Reliability
-- Observability & Monitoring
-- FinOps & Cloud Governance
-- Security Engineering & Privacy
+Today, I work in a global Cloud Center of Excellence. I investigate incidents, improve operational signals, and turn fragile manual work into reliable, repeatable paths with Infrastructure as Code, observability, and self-service platforms. I care about making the safe path the easy one, so teams can move with more autonomy without shifting complexity and risk into operations.
 
-Recently, I've been focusing heavily on operational maturity and reliability practices, including incident management, alert rationalization, observability improvements and resilient cloud architectures.
+Lately, I have also been building AI agents and skills for operations and onboarding, using them to reduce repetitive work while keeping consequential decisions visible to people.
 
-Feel free to explore my pinned projects below to see what I'm building and studying.
+## What I work with
 
-For secure communication, my PGP public key is available on my website.
+- Site Reliability Engineering and incident response
+- Cloud and Platform Engineering across AWS and Azure
+- Infrastructure as Code with Terraform and Terragrunt
+- Kubernetes, distributed systems, and hybrid networking
+- Observability, alerting, and operational maturity
+- FinOps, cloud governance, and security by design
+- Internal Developer Platforms and self-service workflows
 
-## 📫 Let's Connect!
+## Tech stack
 
-Personal website: [loureiro.tech](https://loureiro.tech)
+### Languages and automation
 
-## 💻 Tech Stack
-
-### Backend & Scripting
 <p>
-    <img src="https://skillicons.dev/icons?i=bash,go,python" />
+  <img src="https://skillicons.dev/icons?i=bash,go,python" alt="Bash, Go, and Python" />
 </p>
 
-### Cloud & Infrastructure
+### Cloud and platform
+
 <p>
-    <img src="https://skillicons.dev/icons?i=aws,azure,terraform,kubernetes,docker" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,kubernetes,docker" alt="AWS, Azure, Terraform, Kubernetes, and Docker" />
 </p>
 
-### Operations & Tooling
+### Operations and delivery
+
 <p>
-    <img src="https://skillicons.dev/icons?i=linux,grafana,git,githubactions" />
+  <img src="https://skillicons.dev/icons?i=linux,grafana,git,githubactions" alt="Linux, Grafana, Git, and GitHub Actions" />
 </p>
 
-### Interests
+### Currently exploring
+
 <p>
-    <img src="https://skillicons.dev/icons?i=solidity,rust" />
+  <img src="https://skillicons.dev/icons?i=rust,solidity" alt="Rust and Solidity" />
 </p>
+
+## Beyond infrastructure
+
+I enjoy literature, especially science fiction, and collect vinyl records. Most of my listening sits somewhere around rock, alternative, and indie music.
+
+Explore my pinned repositories below, visit [loureiro.tech](https://loureiro.tech), or reach me at [lucas@loureiro.tech](mailto:lucas@loureiro.tech). My public PGP key is also available on my website.
